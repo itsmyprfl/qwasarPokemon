@@ -1,0 +1,169 @@
+.electric {
+  background-color: #ffd600;
+}
+
+.grass {
+  background-color: #00c853;
+}
+
+.poison {
+  background-color: #6200ea;
+}
+
+.bug {
+  background-color: #64dd17;
+}
+
+.normal {
+  background-color: #a1887f;
+}
+
+.flying {
+  background-color: #4db6ac;
+}
+
+.ground {
+  background-color: #4e342e;
+}
+
+.fire {
+  background-color: #dd2c00;
+}
+
+.water {
+  background-color: #0091ea;
+}
+
+.fairy {
+  background-color: #ff4081;
+}
+
+.rock {
+  background-color: #424242;
+}
+
+.fighting {
+  background-color: #7c4dff;
+}
+
+.ghost {
+  background-color: #000051;
+}
+
+.dark {
+  background-color: #000000;
+}
+
+.psychic {
+  background-color: #9e9d24;
+}
+
+.ice {
+  background-color: #00b8d4;
+}
+
+.steel {
+  background-color: #263238;
+}
+
+.dragon {
+  background-color: #f57f17;
+}
+
+.pokemon-type {
+  color: #fafafa;
+  margin-left: 4px;
+  margin-right: 4px;
+  border-radius: 15px;
+  padding: 2px 8px;
+  text-transform: capitalize;
+}
+
+.electric-bg {
+  background-color: #fff59d;
+}
+
+.grass-bg {
+  background-color: #a5d6a7;
+}
+
+.poison-bg {
+  background-color: #b39ddb;
+}
+
+.bug-bg {
+  background-color: #e6ee9c;
+}
+
+.normal-bg {
+  background-color: #d7ccc8;
+}
+
+.flying-bg {
+  background-color: #b2dfdb;
+}
+
+.ground-bg {
+  background-color: #bcaaa4;
+}
+
+.fire-bg {
+  background-color: #ffab91;
+}
+
+.water-bg {
+  background-color: #bbdefb;
+}
+
+.fairy-bg {
+  background-color: #f8bbd0;
+}
+
+.rock-bg {
+  background-color: #c2c2c2;
+}
+
+.fighting-bg {
+  background-color: #d1c4e9;
+}
+
+.ghost-bg {
+  background-color: #9fa8da;
+}
+
+.dark-bg {
+  background-color: #a4a4a4;
+}
+
+.psychic-bg {
+  background-color: #ffffb3;
+}
+
+.ice-bg {
+  background-color: #b2ebf2;
+}
+
+.steel-bg {
+  background-color: #cfd8dc;
+}
+
+.dragon-bg {
+  background-color: #ffcc80;
+}
+
+.pokemon-type-bg {
+  border-radius: 100%;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  width: 140px;
+  height: 140px;
+}
+
+@media only screen and (min-width: 1400px) {
+  .pokemon-type-bg {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 190px;
+    height: 190px;
+  }
+}
